@@ -11,7 +11,7 @@
 		<a href = "MADLIBS.php">Er heerst paniek...</a>
 		<a href = "onkunde.php">Onkunde</a>
 		</div>
-	<div name = "list">
+	<div id = "list">
 		<h1>Er heerst paniek...</h1>
 		<form method = "post" action = "madlibs2.php">
 			<p> Welk dier zou je nooit als huisdier willen hebben?</p>

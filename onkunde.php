@@ -11,7 +11,7 @@
 		<a href = "MADLIBS.php">Er heerst paniek...</a>
 		<a href = "onkunde.php">Onkunde</a>
 	</div>
-	<div name = "list">
+	<div id = "list">
 		<h1>Onkunde</h1>
 		<form method = "post" action = "onkunde2.php">
 			<p> Wat zou je graag willen kunnen?</p>
